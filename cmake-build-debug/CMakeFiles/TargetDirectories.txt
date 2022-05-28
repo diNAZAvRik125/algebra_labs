@@ -1,0 +1,3 @@
+C:/Nazar/CLionProjects/algebra_labs/3_lab/cmake-build-debug/CMakeFiles/3_lab.dir
+C:/Nazar/CLionProjects/algebra_labs/3_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Nazar/CLionProjects/algebra_labs/3_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
